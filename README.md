@@ -1,1 +1,1 @@
-# Chatbot---Sistema-Comparador-de-Pre-os
+# Chatbot--- Comparador de Preços Gemini
